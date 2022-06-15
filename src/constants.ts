@@ -1,0 +1,3 @@
+const GOOGLE_TILE_SIZE = 256;
+
+export { GOOGLE_TILE_SIZE };
