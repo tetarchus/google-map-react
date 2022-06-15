@@ -66,8 +66,8 @@
     "watchDirectory": "useFsEvents",
     "fallbackPolling": "dynamicpriority"
   },
-  "include": ["./types", "./storybook", "jest.config.ts"],
-  "exclude": ["**/node_modules/*", "**/*.spec.[jt]s*(x)", "**/*.spect.[jt]s*(x)"],
+  "include": ["./src"],
+  "exclude": ["**/node_modules/*", "**/*.spec.[jt]s*(x)", "./src/old-js"],
   "ts-node": {
     "transpileOnly": true,
     "files": true,
