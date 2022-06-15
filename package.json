@@ -57,7 +57,7 @@
     "prettier": "^2.0.4",
     "react": "^18.2.0",
     "react-dom": "^16.0.0 || ^17.0.2 || ^18.0.0",
-    "react-scripts": "^3.4.1"
+    "react-scripts": "^5.0.1"
   },
   "files": [
     "dist"
